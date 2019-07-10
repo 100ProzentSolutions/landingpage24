@@ -1824,6 +1824,18 @@ body {
   padding-right: 50px;
   padding-left: 80px;
 }
+#custom-html-m {
+  /* Type valid CSS here */
+}
+#custom-html-m div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-m p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rsPGn5rSQp {
   padding-top: 60px;
   padding-bottom: 60px;
